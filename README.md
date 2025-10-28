@@ -28,6 +28,9 @@ Acredito que o aprendizado é um processo constante e estou sempre aberto a expl
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.freepik.com/premium-vector/linkedin-logo_1273375-1521.jpg)](https://www.linkedin.com/in/joadson-reis-0848752ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/joadsxn?igsh=dHRtcXY4c3lrOG5t)
-
+<a href="https://www.linkedin.com/in/joadson-reis-0848752ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.freepik.com/premium-vector/linkedin-logo_1273375-1521.jpg" width="40" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/joadsxn?igsh=dHRtcXY4c3lrOG5t">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram">
+</a>
